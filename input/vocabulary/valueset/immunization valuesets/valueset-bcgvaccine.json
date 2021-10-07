@@ -1,0 +1,33 @@
+{
+  "resourceType": "ValueSet",
+  "id": "bcgvaccine-values",
+  "url": "http://fhir.org/guides/who/smart-immunize/ValueSet/bcgvaccine-values",
+  "name": "bcgvaccine-values",
+  "title": "Codes indicating BCG Vaccination",
+  "status": "draft",
+  "experimental": true,
+  "description": "Codes representing the BCG Vaccine",
+  "immutable": true,
+  "compose": {
+    "include": [
+      {
+        "system": "http://snomed.info/sct",
+        "concept": [
+          {
+            "code": "418268006",
+            "display": "Product containing attenuated Bacillus Calmette Guerin (medicinal product)"
+          }
+        ]
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-11",
+        "concept": [
+          {
+            "code": "XM8142 BCG vaccine",
+            "display": "BCG vaccine"
+          }
+        ]
+      }
+    ]
+  }
+}
