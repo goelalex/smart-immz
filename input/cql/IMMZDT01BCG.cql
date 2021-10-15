@@ -13,6 +13,4 @@ context Patient
 define "BCG Immunization":
   [Immunization: vaccineCode in IMMZc."BCG Vaccine"]
 
-
-
 //Check for Observation where patient is under immunized
