@@ -7,14 +7,12 @@ include IMMZConcepts called IMMZc
 
 context Patient
 
-//Check if patient has an immunization for BCG
-//Move to IMZCommon
-define "Get Immunization":
-  [Immunization]
 
+
+//Check if the patient recieved an immunization for BCG
 define "BCG Immunization":
   [Immunization: vaccineCode in IMMZc."BCG Vaccine"]
 
 
 
-//check for Observation where patient is under immunized
+//Check for Observation where patient is under immunized
