@@ -2,7 +2,8 @@ library IMMZCommon
 
 using FHIR version '4.0.1'
 
-include WHOCommon called WHOc
+include WHOCommon called WCom
+include WHOConcepts called Wcon
 include FHIRHelpers version '4.0.1'
 include FHIRCommon called FC
 include IMMZConcepts called IMMZc
@@ -43,5 +44,17 @@ define "Immunization StatusReason":
 //Get patient observations
 define "Get Observations":
   [Observation]
+
+//Check if patient is pregnant
+//not sure if pregnancy is an Observation
+define "Pregnant":
+  [Observation] O
+  //IPS Uses Observation - https://hl7.org/fhir/uv/ips/StructureDefinition-observation-pregnancy-status-uv-ips.html
+    where (O.value as CodeableConcept) in Wcon."Pregnancy Status Pregnant"
+/*
+Need to figure out how to add the OR Condition in case pregnancy is stored in a condition instead of an Observation 
+or [Condition] C
+      where (C.code as CodeableConcept) in Wcon."Pregnancy Status Pregnant"
+*/
 
 //Get adverse events - should be captured in Observations
