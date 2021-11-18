@@ -10,6 +10,8 @@ include IMMZConcepts called IMMZc
 
 context Patient
 
+//Check patient is alive
+
 //Get patient immunizations
 define "Get Immunization":
   [Immunization]
