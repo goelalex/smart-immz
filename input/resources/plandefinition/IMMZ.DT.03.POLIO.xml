@@ -1,0 +1,187 @@
+{
+  "resourceType": "PlanDefinition",
+  "id": "IMMZ.DT.03.POLIO",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.03.POLIO",
+  "name": "IMMZ.DT.03.POLIO",
+  "description": "If child or person has not been vaccinated, give BCG vaccine as soon as possible after birth ",
+  "action": [ {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio Schedule\" = \"OPV plus IPV\"",
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio Schedule\" = \"Sequential IPV-OPV\"",
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio (IPV) - No Doses",
+    "description": "Provide Polio (IPV) immunizations – using the \"IPV-bOPV-bOPV\" schedule (3 doses scheme)",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio (IPV) vaccine immunization history\" = \"No-doses\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient for Polio (IPV) because no doses"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio (IPV) - 1 Dose",
+    "description": "Provide Polio (bOPV) immunizations – using the \"IPV-bOPV-bOPV\" schedule (3 doses scheme)",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio (IPV) vaccine immunization history\" = \"1 dose\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient for Polio (bOPV) because 1 dose IPV"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio (IPV) - 1 Dose (Due to high risk of exposure)",
+    "description": "Provide Polio (IPV) immunizations – using the \"IPV-IPV-bOPV-bOPV\" schedule (4 doses scheme)",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio (IPV) vaccine immunization history\" = \"1 dose\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient for Polio (IPV) because 1 dose IPV (Due to high risk of exposure)"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio (bOPV) - 1 Dose (Second dose in 3-dose schedule)",
+    "description": "Provide Polio (bOPV) immunizations – using the \"IPV-bOPV-bOPV\" schedule (3 doses scheme)",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio (bOPV) vaccine immunization history\" = \"1 dose\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient for Polio (bOPV) because 1 dose bOPV (Second dose in 3-dose schedule)"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio (IPV) - 2 Dose (Due to high risk of exposure)",
+    "description": "Provide Polio (bOPV) immunizations – using the \"IPV-IPV-bOPV-bOPV\" schedule (4 doses scheme)",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio (IPV) vaccine immunization history\" = \"2 dose\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient for Polio (bOPV) because 2 dose IPV (Due to high risk of exposure)"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio (bOPV) - 1 Dose (Third dose in 4-dose schedule)",
+    "description": "Provide Polio (bOPV) immunizations – using the \"IPV-IPV-bOPV-bOPV\" schedule (4 doses scheme)",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio (bOPV) vaccine immunization history\" = \"1 dose\"\nand \"Polio (IPV) vaccine immunization history\" = \"2 doses\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient for Polio (bOPV) because 1 dose bOPV (Third dose in 4-dose schedule)"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Polio Schedule\" = \"IPV Only\"",
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio - No Doses",
+    "description": "Provide IPV immunizations – using the \"IPV Only\" schedule",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"IPV vaccine immunization history\" = \"No-doses and age is less than 2 months\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient with IPV 1st dose"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio - No Doses",
+    "description": "Provide IPV immunizations – using the \"IPV Only\" schedule",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"IPV vaccine immunization history\" = \"No-doses and age is 2 months\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient with IPV 1st dose"
+      }
+    } ]
+  }, {
+    "title": "Immunize Patient for Polio - No Doses",
+    "description": "Provide IPV immunizations – using the \"IPV Only\" schedule",
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"IPV vaccine immunization history\" = \"No-doses and less than 2 months of age\"",
+        "language": "text/cql",
+        "expression": "Should vaccinate patient with IPV 1st dose"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,36 @@
+{
+  "resourceType": "PlanDefinition",
+  "id": "IMMZ.DT.09 Rubella",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.09.Rubella",
+  "name": "IMMZ.DT.09 Rubella",
+  "action": [ {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Rubella vaccine immunization history\" = \"No doses and \"",
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  } ]
+}

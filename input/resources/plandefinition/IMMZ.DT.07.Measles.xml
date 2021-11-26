@@ -1,0 +1,35 @@
+{
+  "resourceType": "PlanDefinition",
+  "id": "IMMZ.DT.07.Measles",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.08.Measles",
+  "name": "IMMZ.DT.07.Measles",
+  "action": [ {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  } ]
+}

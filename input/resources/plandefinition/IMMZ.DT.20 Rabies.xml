@@ -1,0 +1,35 @@
+{
+  "resourceType": "PlanDefinition",
+  "id": "IMMZ.DT.20 Rabies",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.20.Rabies",
+  "name": "IMMZ.DT.20 Rabies",
+  "action": [ {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ]
+  } ]
+}
