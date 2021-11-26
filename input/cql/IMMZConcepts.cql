@@ -14,3 +14,4 @@ codesystem "Extended Codes CodeSystem codes": 'http://fhir.org/guides/who/anc-cd
 
 // Value Sets
 valueset "BCG Vaccine": 'http://fhir.org/guides/who/smart-immunize/ValueSet/bcgvaccine-values'
+valueset "Cholera Vaccine": 'http://fhir.org/guides/who/smart-immunize/ValueSet/cholera-values'

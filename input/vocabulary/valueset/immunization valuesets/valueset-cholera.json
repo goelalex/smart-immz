@@ -1,7 +1,7 @@
 {
     "resourceType": "ValueSet",
     "id": "imz-a1-de2",
-    "url": "",
+    "url": "http://fhir.org/guides/who/smart-immunize/ValueSet/cholera-values",
     "name": "CholeraVaccineAntigen",
     "title": "Cholera Vaccine Antigens",
     "status": "draft",
