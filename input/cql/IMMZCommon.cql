@@ -60,3 +60,27 @@ or [Condition] C
 */
 
 //Get adverse events - should be captured in Observations
+
+
+
+// Only one result from protocols applied list
+define function Only(protocols List<FHIR.Immunization.ProtocolApplied>):
+  singleton from protocols
+
+// Convert a Choice<FHIR.dateTime, FHIR.string> to a Date
+define function ToDate(choice Choice<FHIR.date, FHIR.string>):
+  case
+	  when choice is FHIR.date then
+    	choice as FHIR.date
+		else
+      Message(null as FHIR.date, true, '1', 'Error', 'Cannot compute an date from a String value')
+	end
+
+// Convert a Choice<FHIR.dateTime, FHIR.string> to a Date
+define function ToDateTime(choice Choice<FHIR.dateTime, FHIR.string>):
+  case
+	  when choice is FHIR.dateTime then
+    	choice as FHIR.dateTime
+		else
+      Message(null as FHIR.dateTime, true, '1', 'Error', 'Cannot compute an date from a String value')
+	end
