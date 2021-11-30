@@ -8,7 +8,7 @@ using FHIR version '4.0.1'
 
 include FHIRHelpers version '4.0.1'
 include IMMZConcepts called IMMZc
-include IMMZVaccineLibrary called Vaccines
+include IMMZVaccineLibrary called IMMZvl
 
 codesystem "ISO-8601-Derived Periods": 'http://ohie.org/CodeSystem/iso-8601-derived-periods'
 
@@ -25,7 +25,7 @@ code "P2Y--P9999Y": 'P2Y--P9999Y' from "ISO-8601-Derived Periods" display '> 2 y
 context Patient 
 
 // Vaccinations given to infants stratified by age is < 1 yr or > 1 yr
-define "Infant Vaccine By Age Stratifier":
+define "Infant By Age Stratifier":
     case 
         when AgeInYearsAt(start of "Measurement Period") in Interval[0,1] then "P0Y--P1Y"
         when AgeInYearsAt(start of "Measurement Period") >= 1 then "P1Y--P9999Y"
@@ -33,7 +33,7 @@ define "Infant Vaccine By Age Stratifier":
     end
 
 // Vaccinations given to toddlers stratified by age is < 2 yr or > 2 yr
-define "Toddler Vaccine By Age Stratifier":
+define "Toddler By Age Stratifier":
     case 
         when AgeInYearsAt(start of "Measurement Period") in Interval[0,2] then "P0Y--P2Y"
         when AgeInYearsAt(start of "Measurement Period") >= 2 then "P2Y--P9999Y"
