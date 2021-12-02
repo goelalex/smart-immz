@@ -1,2 +1,7 @@
-
+indicators/ind1
+input-cache
+output
+input/tests/results/*.txt
+temp/
+template/
 *.jar
