@@ -1,0 +1,5 @@
+input-cache
+output
+input/tests/results/*.txt
+temp/
+template/
