@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ImplementationGuide xmlns="http://hl7.org/fhir">
-  <id value="fhir.who.core" />
-  <url value="http://fhir.org/guides/who/immz/ImplementationGuide/fhir.who.core" />
+  <id value="fhir.who.immz" />
+  <url value="http://fhir.org/guides/who/immz/ImplementationGuide/fhir.who.immz" />
   <version value="0.1.0" />
-  <name value="core" />
+  <name value="immz" />
   <title value="WHO Immunization Implementation Guide" />
   <status value="draft" />
   <experimental value="true" />
@@ -16,7 +16,7 @@
     </telecom>
   </contact>
   <description value="WHO Immunization Implementation Guide" />
-  <packageId value="fhir.who.core" />
+  <packageId value="fhir.who.immz" />
   <license value="CC0-1.0" />
   <fhirVersion value="4.0.1" />
   <definition>
