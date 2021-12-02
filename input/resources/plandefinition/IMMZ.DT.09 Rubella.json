@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.09 Rubella",
+  "id": "IMMZ.DT.09.Rubella",
   "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.09.Rubella",
   "name": "IMMZ.DT.09 Rubella",
   "action": [ {

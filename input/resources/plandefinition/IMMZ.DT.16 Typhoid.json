@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.16 Typhoid",
+  "id": "IMMZ.DT.16.Typhoid",
   "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.16.Typhoid",
   "name": "IMMZ.DT.16 Typhoid",
   "description": "If child or person has not been vaccinated, give vaccine between age 6 months - 45 years old",

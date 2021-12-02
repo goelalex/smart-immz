@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.17 Cholera",
+  "id": "IMMZ.DT.17.Cholera",
   "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.17.Cholera",
   "name": "IMMZ.DT.17 Cholera",
   "description": "If child or person has not been vaccinated, give vaccine to child greater than or equal to 1 year old and adults",
