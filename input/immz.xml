@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ImplementationGuide xmlns="http://hl7.org/fhir">
-  <id value="fhir.who.core" />
-  <url value="http://fhir.org/guides/who/core/ImplementationGuide/fhir.who.core" />
+  <id value="fhir.who.immz" />
+  <url value="http://fhir.org/guides/who/immz/ImplementationGuide/fhir.who.core" />
   <version value="0.1.0" />
   <name value="Core" />
-  <title value="WHO Core Implementation Guide" />
+  <title value="WHO Immunization Implementation Guide" />
   <status value="draft" />
   <experimental value="false" />
   <date value="2017-02-06" />
@@ -16,12 +16,12 @@
     </telecom>
   </contact>
   <description value="WHO Core Implementation Guide" />
-  <packageId value="fhir.who.core" />
+  <packageId value="fhir.who.immz" />
   <license value="CC0-1.0" />
   <fhirVersion value="4.0.1" />
   <definition>
     <grouping>
-      <name value="WHO Core Implementation Guide Package" />
+      <name value="WHO Immunization Implementation Guide" />
     </grouping>
     <page>
       <nameUrl value="toc.html" />
@@ -71,7 +71,7 @@
     <!-- copyright year is a mandatory parameter -->
     <parameter>
       <code value="copyrightyear" />
-      <value value="2019+" />
+      <value value="2021+" />
     </parameter>
     <!-- releaselabel should be the ballot status for HL7-published IGs. -->
     <parameter>
