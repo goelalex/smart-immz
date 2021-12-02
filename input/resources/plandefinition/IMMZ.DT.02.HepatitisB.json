@@ -1,8 +1,8 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.02.HEPB",
-  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.02.HEPB",
-  "name": "IMMZ.DT.02.HEPB",
+  "id": "IMMZ.DT.02.HepatitisB",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.02.HepatitisB",
+  "name": "IMMZ.DT.02.HepatitisB",
   "description": "If child or person has not been vaccinated, give Hepatitis B vaccine as soon as possible after birth ",
   "action": [ {
     "title": "Immunize Patient for Hepatitis B - No Doses",

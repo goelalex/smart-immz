@@ -1,8 +1,8 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.18.Meningococcal",
-  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.18.Meningococcal",
-  "name": "IMMZ.DT.18 Meningococcal",
+  "id": "IMMZ.DT.15.Tick-BorneEncephalitis",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.15.Tick-BorneEncephalitis",
+  "name": "IMMZ.DT.15.Tick-BorneEncephalitis",
   "action": [ {
     "condition": [ {
       "kind": "applicability",

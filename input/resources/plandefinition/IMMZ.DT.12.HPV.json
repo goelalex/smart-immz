@@ -1,8 +1,8 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.15.Tick-Borne-Encephalitis",
-  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.15.Tick-Borne Encephali",
-  "name": "IMMZ.DT.15 Tick-Borne Encephalitis",
+  "id": "IMMZ.DT.12.HPV",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.12.HPV",
+  "name": "IMMZ.DT.12.HPV",
   "action": [ {
     "condition": [ {
       "kind": "applicability",
