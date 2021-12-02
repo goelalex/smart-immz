@@ -47,6 +47,11 @@
         <title value="Terminology" />
         <generation value="html" />
       </page>
+      <page>
+        <nameUrl value="documentation.html" />
+        <title value="Documentation" />
+        <generation value="markdown" />
+      </page>
       <!-- <page>
         <nameUrl value="examples.html" />
         <title value="Examples" />
@@ -57,11 +62,6 @@
         <title value="Test Data" />
         <generation value="markdown" />
       </page> -->
-      <page>
-        <nameUrl value="documentation.html" />
-        <title value="Documentation" />
-        <generation value="markdown" />
-      </page>
       <page>
         <nameUrl value="downloads.html" />
         <title value="Downloads" />
