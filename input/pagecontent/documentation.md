@@ -13,8 +13,10 @@ The over all workflow for immunizations is documented below. More details can be
 9. Resolve Duplicate Vaccine Events
 10. Report generation
 
-
 ## Generic Personas 
+* Health Worker
+* Community Health Worker 
+* Patient 
 
 ## User Scenarios
 
