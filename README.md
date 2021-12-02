@@ -1,16 +1,24 @@
 # WHO Core Implementation Guide (FHIR R4 (4.0.1))
 
-This implementation guide defines core data element profiles for use across World Health Organization (WHO) computable guideline content.
+This implementation guide defines core data element profiles for use for the World Health Organization (WHO) Immunization computable guideline content.
 
-The profiles here define shared data elements used within content implementation guides such as [WHO Antenatal Care Guidelines (ANC)](http://build.fhir.org/ig/WorldHealthOrganization/smart-anc).
-
-The current draft of the implementation guide is available [here](http://build.fhir.org/ig/WorldHealthOrganization/smart-core/).
+The current draft of the implementation guide is available [here](http://build.fhir.org/ig/WorldHealthOrganization/smart-immunization/).
 
 The guide is published under a Creative Commons [license](LICENSE.md).
 
-## Change Management and Roadmap
+## Change Management
 
 Feedback and issues can be submitted via the [issues](issues) page, and will be incorporated into subsequent releases as time and resources allow.
+
+## Roadmap
+### Completed
+* PlanDefinitions
+
+### In Progress
+* Measures 
+
+### ToDo 
+* ActivityDefinitions
 
 ## Repository and Build Information
 
@@ -18,15 +26,15 @@ This repository contains the source for the WHO Core Implementation Guide, and u
 
 Commits to this repository will automatically trigger a new build of the IG, which will then be published to the following location:
 
-[http://build.fhir.org/ig/WorldHealthOrganization/smart-core/](http://build.fhir.org/ig/WorldHealthOrganization/smart-core/)
+[http://build.fhir.org/ig/WorldHealthOrganization/smart-immunization/](http://build.fhir.org/ig/WorldHealthOrganization/smart-immunization/)
 
 Build log is available here:
 
-[http://build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/WorldHealthOrganization/smart-core](http://build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/WorldHealthOrganization/smart-core)
+[http://build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/WorldHealthOrganization/smart-immunization](http://build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/WorldHealthOrganization/smart-immunization)
 
 Debugging information is available here:
 
-[http://build.fhir.org/ig/WorldHealthOrganization/smart-core/debug.tgz](http://build.fhir.org/ig/WorldHealthOrganization/smart-core/debug.tgz)
+[http://build.fhir.org/ig/WorldHealthOrganization/smart-immunization/debug.tgz](http://build.fhir.org/ig/WorldHealthOrganization/smart-immunization/debug.tgz)
 
 ### Local Build
 

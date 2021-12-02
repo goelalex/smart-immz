@@ -1,13 +1,12 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.09.Rubella",
-  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.09.Rubella",
-  "name": "IMMZ.DT.09 Rubella",
+  "id": "IMMZ.DT.11.Pneumococcal",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.11.Pneumococcal",
+  "name": "IMMZ.DT.11.Pneumococcal",
   "action": [ {
     "condition": [ {
       "kind": "applicability",
       "expression": {
-        "description": "\"Rubella vaccine immunization history\" = \"No doses and \"",
         "language": "text/cql"
       }
     } ]

@@ -1,8 +1,8 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.11.Pneumococcal",
-  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.11.Pneumococcal",
-  "name": "IMMZ.DT.11 Pneumococcal",
+  "id": "IMMZ.DT.13.JapaneseEncephalitis",
+  "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.13.JapaneseEncephalitis",
+  "name": "IMMZ.DT.13.JapaneseEncephalitis",
   "action": [ {
     "condition": [ {
       "kind": "applicability",
