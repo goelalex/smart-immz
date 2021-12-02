@@ -10,7 +10,7 @@ include FHIRHelpers version '4.0.1'
 include IMMZCommonIzDataElements called IMMZCommonDataElements
 
 codesystem "ISO-8601-Derived Periods": 'http://ohie.org/CodeSystem/iso-8601-derived-periods'
-parameter "Measurement Period" Interval<Date>
+parameter "Measurement Period" Interval<Date> default Interval[@2020-01-01, @2020-12-31]
 
 // Age Groups for Vaccines for infants
 code "P0Y--P1Y": 'P0Y--P1Y' from "ISO-8601-Derived Periods" display '< 1 year'

@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.14 Yellow Fever",
+  "id": "IMMZ.DT.14.Yellow-Fever",
   "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.14.Yellow Fever",
   "name": "IMMZ.DT.14 Yellow Fever",
   "description": "If child or person has not been vaccinated, give vaccine between age 9-12 months",

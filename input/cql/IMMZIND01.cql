@@ -46,7 +46,6 @@ define "Denominator":
     exists([ImmunizationRecommendation: recommendation.vaccineCode in IMMZc."BCG Vaccine"] I
         where I.recommendation.dateCriterion.select(IMMZCom.ToDateTime(value) < (start of "Measurement Period") and IMMZCom.ToDateTime(value) < (end of "Measurement Period")).anyTrue()
         ) 
-            
 
 /*
  * Disaggregator: Age (<1 year , >1 year)

@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.12 HPV",
+  "id": "IMMZ.DT.12.HPV",
   "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.12.HPV",
   "name": "IMMZ.DT.12 HPV",
   "action": [ {
