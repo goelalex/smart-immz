@@ -6,8 +6,8 @@
   <name value="Core" />
   <title value="WHO Immunization Implementation Guide" />
   <status value="draft" />
-  <experimental value="false" />
-  <date value="2017-02-06" />
+  <experimental value="true" />
+  <date value="2021-12-01" />
   <publisher value="World Health Organization (WHO)" />
   <contact>
     <telecom>
@@ -15,7 +15,7 @@
       <value value="https://www.who.int"/>
     </telecom>
   </contact>
-  <description value="WHO Core Implementation Guide" />
+  <description value="WHO Immunization Implementation Guide" />
   <packageId value="fhir.who.immz" />
   <license value="CC0-1.0" />
   <fhirVersion value="4.0.1" />
