@@ -44,7 +44,7 @@ define "Numerator":
         (
             [ImmunizationRecommendation] I
             where I.recommendation.select(vaccineCode in IMMZc."DTP Vaccine"
-                and dateCriterion.select(IMMZCom.ToDateTime(value) between start of "Measurement Period" and end of "Measurement Period" ).anyTrue() 
+                and dateCriterion.select(IMMZCom.ToDateTime(value) between start of "Measurement Period"  and end of "Measurement Period").anyTrue() 
                 and doseNumber = 3).anyTrue()
         ) 
     and not exists// Patient DID NOT receive DTP3 during measurement period
@@ -71,7 +71,7 @@ define "Denominator":
         ( // Patient HAS an Immunization Recommendation for DTP 3 during the measurement period
             [ImmunizationRecommendation] I
             where I.recommendation.select(vaccineCode in IMMZc."DTP Vaccine"
-                and dateCriterion.select(IMMZCom.ToDateTime(value) between start of "Measurement Period" and end of "Measurement Period" ).anyTrue() 
+                and dateCriterion.select(IMMZCom.ToDateTime(value) between start of "Measurement Period" and end of "Measurement Period").anyTrue() 
                 and doseNumber = 3).anyTrue()
         ) 
 

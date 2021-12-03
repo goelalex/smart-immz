@@ -41,8 +41,11 @@ define "BCG Numerator":
  * Denominator Computation: COUNT of registered persons (actual population)
  */
 define "BCG Denominator":
-    exists([ImmunizationRecommendation: recommendation.vaccineCode in IMMZc."BCG Vaccine"] I
-        where I.recommendation.dateCriterion.select(IMMZCom.ToDateTime(value) > (start of "Measurement Period") and IMMZCom.ToDateTime(value) < (end of "Measurement Period")).anyTrue()
+    exists([ImmunizationRecommendation] I
+        where I.recommendation.select(vaccineCode in IMMZc."BCG Vaccine" and 
+            dateCriterion.select(IMMZCom.ToDateTime(value) > (start of "Measurement Period") 
+            and IMMZCom.ToDateTime(value) < (end of "Measurement Period")).anyTrue()
+        ).anyTrue()
         ) 
 
 /*

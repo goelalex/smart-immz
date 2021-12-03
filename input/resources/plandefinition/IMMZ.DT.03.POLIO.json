@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "IMMZ.DT.03.Polio",
+  "id": "IMMZ.DT.03.POLIO",
   "url": "http://fhir.org/guides/who/Immz/PlanDefinition/IMMZ.DT.03.Polio",
   "name": "IMMZ.DT.03.Polio",
   "description": "If child or person has not been vaccinated, give BCG vaccine as soon as possible after birth ",
