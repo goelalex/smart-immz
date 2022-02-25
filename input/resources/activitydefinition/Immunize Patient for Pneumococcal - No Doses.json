@@ -1,0 +1,12 @@
+{
+  "resourceType": "ActivityDefinition",
+  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Pneumococcal%20-%20No%20Doses",
+  "version": "0.1",
+  "name": "Immunize Patient for Pneumococcal - No Doses",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "WHO",
+  "description": "Provide Pneumococcal immunizations – using the \"Catch-up PCV immunization – NO PREVIOUS\" schedule (1 dose scheme)",
+  "kind": "ImmunizationRecommendation",
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+}

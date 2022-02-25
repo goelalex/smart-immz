@@ -1,0 +1,11 @@
+{
+  "resourceType": "ActivityDefinition",
+  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20BCG%20-%20History%20Unknown%20",
+  "version": "0.1",
+  "name": "Immunize Patient for BCG - History Unknown ",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "WHO",
+  "kind": "ImmunizationRecommendation",
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+}

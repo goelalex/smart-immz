@@ -1,0 +1,12 @@
+{
+  "resourceType": "ActivityDefinition",
+  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20HPV%20-%20Two%20Doses",
+  "version": "0.1",
+  "name": "Immunize Patient for HPV - Two Doses",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "WHO",
+  "description": "Provide HPV immunizations - using the \"HPV vaccine immunization -  TWO PREVIOUS\" schedule (3 dose scheme)",
+  "kind": "ImmunizationRecommendation",
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+}

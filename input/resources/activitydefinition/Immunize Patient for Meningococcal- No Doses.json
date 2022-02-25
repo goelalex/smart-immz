@@ -1,0 +1,12 @@
+{
+  "resourceType": "ActivityDefinition",
+  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Meningococcal-%20No%20Doses",
+  "version": "0.1",
+  "name": "Immunize Patient for Meningococcal- No Doses",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "WHO",
+  "description": "Provide Meningococcal immunizations – using the \"Meningococcal polysaccharide vaccines immunization – NO PREVIOUS\" schedule (1 dose scheme) \n\n",
+  "kind": "ImmunizationRecommendation",
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+}

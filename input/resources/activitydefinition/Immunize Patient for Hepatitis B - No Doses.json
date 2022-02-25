@@ -1,0 +1,12 @@
+{
+  "resourceType": "ActivityDefinition",
+  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Hepatitis%20B%20-%20No%20Doses",
+  "version": "0.1",
+  "name": "Immunize Patient for Hepatitis B - No Doses",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "WHO",
+  "description": "Provide Hepatitis B immunizations – using the \"Hepatitis B vaccine immunization – NO PREVIOUS\" schedule (3 doses scheme)",
+  "kind": "ImmunizationRecommendation",
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+}

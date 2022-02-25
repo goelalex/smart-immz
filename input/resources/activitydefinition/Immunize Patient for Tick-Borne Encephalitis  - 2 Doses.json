@@ -1,0 +1,12 @@
+{
+  "resourceType": "ActivityDefinition",
+  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Tick-Borne%20Encephalitis%20%20-%202%20Doses",
+  "version": "0.1",
+  "name": "Immunize Patient for Tick-Borne Encephalitis  - 2 Doses",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "WHO",
+  "description": "Provide Tick-Borne Encephalitis immunizations – using the \"TBE-Moscow and EnceVir vaccine immunization – 2 PREVIOUS\" schedule (3 dose scheme)",
+  "kind": "ImmunizationRecommendation",
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+}
