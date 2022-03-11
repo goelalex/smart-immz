@@ -3,7 +3,7 @@
   "meta": {
     "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationactivity" ]
   },
-  "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20DTP%20-%202%20Dose%20",
+  "url": "http://example.com/fhir/ActivityDefinition/Immunize%20Patient%20for%20DTP%20-%202%20Dose%20",
   "version": "0.1",
   "name": "Immunize Patient for DTP - 2 Dose ",
   "status": "draft",
@@ -15,7 +15,8 @@
   "code": {
     "coding": [ {
       "system": "http://snomed.info/sct/",
-      "code": "33879002"
+      "code": "33879002",
+      "display": "Administration of vaccine to produce active immunity"
     } ]
   },
   "intent": "proposal",

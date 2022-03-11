@@ -15,7 +15,7 @@
         "expression": "Should vaccinate Patient for MUMPS because no doses"
       }
     } ],
-    "definitionCanonical": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20MUMPS%20-%20No%20Doses"
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/Immunize%20Patient%20for%20MUMPS%20-%20No%20Doses"
   }, {
     "title": "Immunize Patient for MUMPS - One Dose",
     "description": "Provide MUMPS immunizations - using the \"MUMPS vaccine immunization - ONE PREVIOUS\" schedule (2 dose scheme)",
@@ -27,6 +27,6 @@
         "expression": "Should vaccinate Patient for MUMPS a second time on a 2 dose scheme"
       }
     } ],
-    "definitionCanonical": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20MUMPS%20-%20One%20Dose"
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/Immunize%20Patient%20for%20MUMPS%20-%20One%20Dose"
   } ]
 }
