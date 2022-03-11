@@ -1,5 +1,8 @@
 {
   "resourceType": "ActivityDefinition",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationactivity" ]
+  },
   "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20HPV%20-%20One%20Dose",
   "version": "0.1",
   "name": "Immunize Patient for HPV - One Dose",
@@ -8,5 +11,13 @@
   "publisher": "WHO",
   "description": "Provide HPV immunizations - using the \"HPV vaccine immunization -  ONE PREVIOUS\" schedule (3 dose scheme)",
   "kind": "ImmunizationRecommendation",
-  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct/",
+      "code": "33879002"
+    } ]
+  },
+  "intent": "proposal",
+  "doNotPerform": false
 }

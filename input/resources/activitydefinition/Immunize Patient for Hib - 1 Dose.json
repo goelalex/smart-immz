@@ -1,5 +1,8 @@
 {
   "resourceType": "ActivityDefinition",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationactivity" ]
+  },
   "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Hib%20-%201%20Dose",
   "version": "0.1",
   "name": "Immunize Patient for Hib - 1 Dose",
@@ -8,5 +11,13 @@
   "publisher": "WHO",
   "description": "Provide Hib immunizations – using the \"Hib Vaccine immunization 2p + 1 schedule – 1 PREVIOUS\" schedule (2 dose scheme)",
   "kind": "ImmunizationRecommendation",
-  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct/",
+      "code": "33879002"
+    } ]
+  },
+  "intent": "proposal",
+  "doNotPerform": false
 }

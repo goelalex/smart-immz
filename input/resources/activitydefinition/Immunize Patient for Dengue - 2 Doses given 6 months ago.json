@@ -1,5 +1,8 @@
 {
   "resourceType": "ActivityDefinition",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationactivity" ]
+  },
   "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Dengue%20-%202%20Doses%20given%206%20months%20ago",
   "version": "0.1",
   "name": "Immunize Patient for Dengue - 2 Doses given 6 months ago",
@@ -8,5 +11,13 @@
   "publisher": "WHO",
   "description": "Provide Dengue immunizations – using the \"Dengue vaccine immunization – 2 PREVIOUS\" schedule (3 dose scheme)",
   "kind": "ImmunizationRecommendation",
-  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct/",
+      "code": "33879002"
+    } ]
+  },
+  "intent": "proposal",
+  "doNotPerform": false
 }

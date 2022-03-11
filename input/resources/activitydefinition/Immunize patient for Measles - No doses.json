@@ -1,5 +1,8 @@
 {
   "resourceType": "ActivityDefinition",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationactivity" ]
+  },
   "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20patient%20for%20Measles%20-%20No%20doses",
   "version": "0.1",
   "name": "Immunize patient for Measles - No doses",
@@ -8,5 +11,13 @@
   "publisher": "WHO",
   "description": "Provide measles immunization 1st dose - Using the \"MCV0 Vaccine immunization - NO Previous\" schedule (2 doses scheme)",
   "kind": "ImmunizationRecommendation",
-  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct/",
+      "code": "33879002"
+    } ]
+  },
+  "intent": "proposal",
+  "doNotPerform": false
 }

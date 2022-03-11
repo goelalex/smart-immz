@@ -1,5 +1,8 @@
 {
   "resourceType": "ActivityDefinition",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationactivity" ]
+  },
   "url": "Https://placeholder.org/fhir/ActivityDefinition/Immunize%20Patient%20for%20Rabies%20-%20No%20Doses",
   "version": "0.1",
   "name": "Immunize Patient for Rabies - No Doses",
@@ -8,5 +11,13 @@
   "publisher": "WHO",
   "description": "Provide Rabies immunizations – using the \"PrEP- IM route immunization – NO PREVIOUS\" schedule \n 1-site IM vaccine administration on days 0 and 7",
   "kind": "ImmunizationRecommendation",
-  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation"
+  "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct/",
+      "code": "33879002"
+    } ]
+  },
+  "intent": "proposal",
+  "doNotPerform": false
 }
