@@ -9,7 +9,7 @@
   "status": "draft",
   "experimental": true,
   "publisher": "WHO",
-  "description": "Provide Polio (bOPV) immunizations – using the zero dose recommendation at birth (until 2 weeks old) due to patient being in a polio-endemic country with high risk of spread. Patient will continue the \"bOPV-IPV-bOPV-IPV-bOPV\" schedule (5 doses scheme)",
+  "description": "Provide birth dose Polio (bOPV) vaccination – using the zero dose recommendation at birth (until 2 weeks old) due to patient being in a polio-endemic country with high risk of spread. Patient will continue the \"bOPV-IPV-bOPV-IPV-bOPV\" schedule (5 doses scheme)",
   "kind": "ImmunizationRecommendation",
   "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
   "code": {

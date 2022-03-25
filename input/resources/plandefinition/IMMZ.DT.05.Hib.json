@@ -656,5 +656,7341 @@
       }
     } ],
     "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
   } ]
 }

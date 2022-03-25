@@ -46,11 +46,20 @@
     "condition": [ {
       "kind": "applicability",
       "expression": {
-        "description": "\"Hepatitis B vaccine immunization history\" = \"3 doses\" and (\"Patient birth weight observation value\" < 2000g or \"Patient mother's prenancy outcome observation\" = \"preterm\")",
+        "description": "\"Hepatitis B vaccine immunization history\" = \"3 doses\"",
         "language": "text/cql",
         "expression": "Should vaccinate patient for Hepatitis B because 3 doses and (low birth weight or premature infant)"
       }
     } ],
     "definitionCanonical": "http://example.com/fhir/ActivityDefinition/Immunize%20Patient%20for%20Hepatitis%20B%20-%203%20Doses%20and%20Premature%20birth%2Flow%20birth%20weight"
+  }, {
+    "condition": [ {
+      "kind": "applicability",
+      "expression": {
+        "description": "\"Hepatitis B vaccine immunization history\" = \"3 doses\"",
+        "language": "text/cql"
+      }
+    } ],
+    "definitionCanonical": "http://example.com/fhir/ActivityDefinition/"
   } ]
 }

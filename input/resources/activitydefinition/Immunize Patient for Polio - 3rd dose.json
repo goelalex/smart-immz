@@ -9,7 +9,7 @@
   "status": "draft",
   "experimental": true,
   "publisher": "WHO",
-  "description": "Provide IPV immunizations - using the \"IPV Only\" schedule - minimum of 4 weeks after previous dose",
+  "description": "Provide 3rd dose Polio (IPV) vaccination - using the \"IPV Only\" schedule - minimum of 4 weeks after previous dose",
   "kind": "ImmunizationRecommendation",
   "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
   "code": {

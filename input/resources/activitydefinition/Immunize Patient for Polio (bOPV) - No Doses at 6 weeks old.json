@@ -9,7 +9,7 @@
   "status": "draft",
   "experimental": true,
   "publisher": "WHO",
-  "description": "Provide Polio (bOPV) immunizations – using the \"bOPV-IPV-bOPV-IPV-bOPV\" schedule (5 doses scheme)",
+  "description": "Provide 1st dose Polio (bOPV) vaccination – using the \"bOPV-IPV-bOPV-IPV-bOPV\" schedule (5 doses scheme)",
   "kind": "ImmunizationRecommendation",
   "profile": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-immunizationrecommendation",
   "code": {
